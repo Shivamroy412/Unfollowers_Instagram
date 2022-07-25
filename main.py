@@ -17,6 +17,7 @@ try:
         raise ValueError("Enter username and password as Strings in config file and save it.")
 except ValueError as e:
     print(e)
+    sys.exit(1)
 
 # Login to the account    
 loader.login(username, password)  
