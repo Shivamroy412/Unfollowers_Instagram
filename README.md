@@ -1,6 +1,6 @@
 # Unfollowers Instagram
 
-Unfollowers Instagram is a secure script to Instgram load user information for
+Unfollowers Instagram is a secure script to load Instagram user information for
 various purposes such as checking users who you follow but they don't follow back.
 
 ## Installation
