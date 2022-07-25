@@ -9,7 +9,7 @@ Clone the repository into your local computer.
 
 Install dependancies using:
 
-``` pip install requirements.txt ```
+``` pip install -r requirements.txt ```
 
 ## Usage
 
