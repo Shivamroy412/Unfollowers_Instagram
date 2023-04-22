@@ -3,6 +3,8 @@
 Unfollowers Instagram is a secure script to load Instagram user information for
 various purposes such as checking users who you follow but they don't follow back.
 
+> Warning: The project relies on [instaloader](https://github.com/instaloader/instaloader). It is advisable to check the [Issues](https://github.com/instaloader/instaloader/issues) in the repository before using the code.
+
 ## Installation
 
 Clone the repository into your local computer.

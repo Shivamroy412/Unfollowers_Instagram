@@ -13,8 +13,6 @@ loader = instaloader.Instaloader()
 try: 
     username = config.USERNAME
     password = config.PASSWORD
-    print(username)
-    print(password)
     if not username or not password:
         raise ValueError("Enter username and password as Strings in config file and save it.")
 except ValueError as e:
