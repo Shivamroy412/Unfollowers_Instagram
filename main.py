@@ -33,7 +33,7 @@ following_list = []
 count = 0
 for follower in profile.get_followers():
     count += 1
-    if count < 800:
+    if count < 1500:
         follower_list.append(follower.username)
     else:
         time.sleep(10)
@@ -42,7 +42,7 @@ for follower in profile.get_followers():
 count = 0
 for following in profile.get_followees():
     count += 1
-    if count < 800:
+    if count < 1500:
         following_list.append(following.username)
     else:
         time.sleep(10)
